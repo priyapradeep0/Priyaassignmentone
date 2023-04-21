@@ -9,6 +9,11 @@ header{
     background-color: white;
     height: 5em;
 }
+.headtag{
+    float: left;
+    margin-top: 35px;
+    margin-left: 20px;
+}
 .headtag a{
     text-decoration: none;
     border: 1px solid black;
